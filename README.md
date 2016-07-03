@@ -1,2 +1,3 @@
 CSRFUZZTOOL
-# csrfuzztool Version 1.0
+CsrFuzzTool
+# CyberStruggle.Org

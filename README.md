@@ -1,2 +1,2 @@
 CSRFUZZTOOL
-# csrfuzztool
+# csrfuzztool Version 1.0

@@ -6,7 +6,7 @@ from urllib2 import Request, urlopen, URLError, HTTPError
 
 def bilgi():
 	print"00000000000000000000000000000000000000000000000"
-	print'CyberStrugggleRanger Fuzz Aracı'
+	print'Fuzz Aracı'
 	print'Programlayan : Taha Ege Aydın'                                                       
 	print"00000000000000000000000000000000000000000000000"
 	
